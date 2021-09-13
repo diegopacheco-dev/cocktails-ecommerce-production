@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ericksonder/cocktails-ecommerce-production/static/css/main.2c47c1f8.chunk.css",
+    "main.js": "/ericksonder/cocktails-ecommerce-production/static/js/main.b1695b44.chunk.js",
+    "main.js.map": "/ericksonder/cocktails-ecommerce-production/static/js/main.b1695b44.chunk.js.map",
+    "runtime-main.js": "/ericksonder/cocktails-ecommerce-production/static/js/runtime-main.7b748a53.js",
+    "runtime-main.js.map": "/ericksonder/cocktails-ecommerce-production/static/js/runtime-main.7b748a53.js.map",
+    "static/js/2.8356c57f.chunk.js": "/ericksonder/cocktails-ecommerce-production/static/js/2.8356c57f.chunk.js",
+    "static/js/2.8356c57f.chunk.js.map": "/ericksonder/cocktails-ecommerce-production/static/js/2.8356c57f.chunk.js.map",
+    "index.html": "/ericksonder/cocktails-ecommerce-production/index.html",
+    "static/css/main.2c47c1f8.chunk.css.map": "/ericksonder/cocktails-ecommerce-production/static/css/main.2c47c1f8.chunk.css.map",
+    "static/js/2.8356c57f.chunk.js.LICENSE.txt": "/ericksonder/cocktails-ecommerce-production/static/js/2.8356c57f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b748a53.js",
+    "static/js/2.8356c57f.chunk.js",
+    "static/css/main.2c47c1f8.chunk.css",
+    "static/js/main.b1695b44.chunk.js"
+  ]
+}
